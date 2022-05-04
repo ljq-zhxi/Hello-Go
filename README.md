@@ -2,5 +2,6 @@
 
 #Git教程
 
-​	-fature-A
 
+​	- fature-A
+​	- fix-B
